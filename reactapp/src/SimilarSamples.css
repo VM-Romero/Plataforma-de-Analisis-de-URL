@@ -1,0 +1,63 @@
+.p-rating {
+    float: left;
+}
+
+.container-similar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-similar {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table#space {
+    border-collapse: separate;
+    border-spacing: 10px 5px;
+    border-collapse: collapse;
+  }
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    background-color: rgb(248, 248, 248);
+    align-items: center;
+    
+  }
+
+  th, td {
+    padding: 10px;
+  }
+
+
+  th {
+    letter-spacing: 2px;
+    
+  }
+
+  td {
+    letter-spacing: 1px;
+  
+  }
+
+  tbody td {
+    text-align: left;
+  }
+  
+  tfoot th {
+    text-align: left;
+  }
+
+  h6 {
+    text-decoration: underline;
+    color: dodgerblue;
+  }
+
+  h6:hover {
+    text-decoration: underline;
+    color: lightblue;
+  }

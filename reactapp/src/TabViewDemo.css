@@ -1,0 +1,9 @@
+.pie-chart{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.stats-title{
+    display: block;
+}

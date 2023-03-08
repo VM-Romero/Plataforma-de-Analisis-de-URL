@@ -1,0 +1,10 @@
+{
+  "sample_store_name": "prueba",
+  "mongo_uri": "mongodb://localhost",
+  "mongo_db_name": "project_database",
+  "elastic_uri": "https://localhost:9200",
+  "elastic_cert": "/home/valentina/Documentos/elasticsearch-8.4.1/config/certs/http_ca.crt",
+  "elastic_user": "elastic",
+  "elastic_password": "=P_T+H3*iso-HTV6=Tz*",
+  "virustotal_api_key": "717b49a6045c28a3c649ada776b6e922ea629d6cfa973823b8e310666dfda7f3"
+}
